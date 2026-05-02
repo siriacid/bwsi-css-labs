@@ -39,7 +39,7 @@ def simple_calculator(operation: str, num1: float, num2: float) -> float:
 
 def main():
     
-    print(f"===== Simple Calculator =====")
+    print(f"===== Simple Calculator =====") 
 
     # Ask the user for sample input    
     num1 = float(input("Enter the first number: "))
